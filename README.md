@@ -13,3 +13,8 @@ Python Selenium script to scrape session details from GHC Conference website.
 Test 25 rows:
 ```bash
 python3 ghc_scraper.py
+
+### Run Full Script
+
+```bash
+python3 ghc_scraper.py full ghc_full.csv
